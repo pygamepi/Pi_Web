@@ -1,0 +1,27 @@
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	min-height: 75px;
+	height: auto;
+	padding-bottom: 2px;
+	color: white;
+	background-color: #A8FC00;
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), linear-gradient(#A8FC00, black);
+}
+.footerContainer {
+	padding: 5px;
+	background: rgba(0,0,0,0.5);	
+}
+.footerBlock {
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+.footer h3 {
+	font-size: 15px;
+}

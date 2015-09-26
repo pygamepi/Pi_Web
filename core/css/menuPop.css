@@ -1,0 +1,33 @@
+.menuPop {
+	position: fixed;
+	width: 100%;
+	height: auto;
+	margin: 0px 0px 5px 0px;
+	padding: 5px;
+	border-radius: 0px 0px 5px 5p;
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
+	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), linear-gradient(#A8FC00, black);
+}
+.popContainer {
+	margin-left: 3%;
+	margin-right: 3%;
+}
+.menuBlock.popTabs {         
+	margin-right: 5px;         
+	margin-top: 40px;
+	padding: 5px;         
+	border-radius: 5px 5px 0px 0px;         
+	background-color: white; 
+	line-hieght: 5px;
+	color: black;
+}
+.popTabs h3 {
+	font-size: 65px;
+	margin: 0px;
+}
+.popTabs a {
+	color: black;
+	text-decoration: none;
+}

@@ -1,0 +1,94 @@
+img {
+	max-height: 100%;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+.servers img {
+	height: 300px;
+	width: 600px;
+}
+.container:after {
+ 	content: ".";
+ 	display:block;
+ 	height: 0;
+ 	clear: both;
+ 	visibility: hidden;
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	min-height: 100%;
+	background-color: blue;
+	background-image: url("/core/img/body.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.container {
+	left: 0;
+	min-width: 100%;
+	max-width: 100%;
+	min-height: 100%;
+	height: auto;
+	margin-right: 0%;
+	margin-left: 0%;
+	padding: 0px 0px 90px 0px;
+}
+.row {
+	max-width: 100%;
+	width: auto;
+	padding: 0px 5px 0px 5px;
+	margin: 0px 5px 0px 5px;
+	float: left;
+}
+.block {
+	width: 100%
+	height: auto;
+	padding: 5px 5px 5px 5px;
+	margin: 5px 5px 0px 5px;
+	border-radius: 5px 5px 5px 5px;
+	background-color: white;
+}
+
+//Block Lengths Below
+
+.blockLength1, .blockLength2, .blockLength3, .blockLength4, .blockLength5,
+.blockLength6, .blockLength7, .blockLength8, .blockLength9, .blockLengthFull {
+	height: auto;
+}
+.blockLength1 {
+	width: 100px;
+}
+.blockLength2 {
+        width: 200px;
+}
+.blockLength3 {
+        width: 300px;
+}
+.blockLength4 {
+        width: 400px;
+}
+.blockLength5 {
+        width: 500px;
+}
+.blockLength6 {
+        width: 600px;
+}
+.blockLength7 {
+        width: 700px;
+}
+.blockLength8 {
+        width: 800px;
+}
+.blockLength9 {
+        width: 900px;
+}
+.blockLengthFull {
+        width: 100%;
+}
