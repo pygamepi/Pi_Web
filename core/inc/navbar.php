@@ -6,7 +6,7 @@
 	</div><!--menuBlock-->
 
 	<div class="menuBlock logoBlock">
-            <h3><a href="/" class="name">Gnosis Paradox</a></h3>
+            <h3><a href="/" class="name">Pygamepi.com</a></h3>
         </div><!--menuBlock-->
 
 	<div class="menuBlock tabs">

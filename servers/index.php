@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>GP | Servers</title>
+    	<title>Pi | Servers</title>
 	<?php include('../core/inc/headtag.php'); ?>
     </head>
 
@@ -17,19 +17,19 @@
 		</div><!--block-->
 		<div class="blockLength9 block servers">
                     <a href="vanilla/index.php"><h1>Minecraft Vanilla</h1></a>
-		    <a href="vanilla/index.php"><img src="http://www.gnosisparadox.net/core/img/vanilla.png"/></a>
+		    <a href="vanilla/index.php"><img src="http://pygamepi.com/core/img/vanilla.png"/></a>
                 </div><!--block-->
 		<div class="blockLength9 block servers">
                     <a href="skyblock/index.php"><h1>Minecraft Skyblock</h1></a>
-		    <a href="skyblock/index.php"><img src="http://www.gnosisparadox.net/core/img/skyblock.png"></a>
+		    <a href="skyblock/index.php"><img src="http://pygamepi.com/core/img/skyblock.png"></a>
                 </div><!--block-->
 		<div class="blockLength9 block servers">
                     <a href="pixelmon/index.php"><h1>Minecraft Pixelmon</h1></a>
-		    <a href="pixelmon/index.php"><img src="http://www.gnosisparadox.net/core/img/pixelmon.png"></a>
+		    <a href="pixelmon/index.php"><img src="http://pygamepi.com/core/img/pixelmon.png"></a>
                 </div><!--block-->
 		<div class="blockLength9 block servers">
                     <a href="terraria/index.php"><h1>Terraria</h1></a>
-		    <a href="terraria/index.php"><img src="http://www.gnosisparadox.net/core/img/terraria.png"></a>
+		    <a href="terraria/index.php"><img src="http://pygamepi.com/core/img/terraria.png"></a>
                 </div><!--block-->
 	    </div><!--row-->
 	</div><!--container-->

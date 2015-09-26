@@ -1,7 +1,7 @@
 <div class="footer">
     <div class="footerContainer">
 	<div class="footerBlock">
-	    <strong><h3>Gnosis Paradox </h3></strong>
+	    <strong><h3>Pygamepi.com</h3></strong>
 	</div><!--footerBlock-->
 	<div class="footerBlock">
             <h3>Contact: derekhoyt1@gmail.com OR derek@gnosisparadox.net</h3>

@@ -18,7 +18,7 @@
 		</div><!--block-->
 		<div class="blockLength9 block servers">
                     <h1>Minecraft Vanilla</h1>
-		    <img src="http://www.gnosisparadox.net/core/img/vanilla.png"/>
+		    <img src="http://pygamepi.com/core/img/vanilla.png"/>
 		    <?php include('vanilla.php'); ?>
                 </div><!--block--></center>
 	    </div><!--row-->

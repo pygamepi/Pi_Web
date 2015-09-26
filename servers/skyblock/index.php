@@ -18,7 +18,7 @@
 		</div><!--block-->
 		<div class="blockLength9 block servers">
                     <h1>Minecraft Skyblock</h1>
-		    <img src="http://www.gnosisparadox.net/core/img/skyblock.png">
+		    <img src="http://pygamepi.com/core/img/skyblock.png">
 		    <?php include('skyblock.php'); ?>
                 </div><!--block--></center>
 	    </div><!--row-->

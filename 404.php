@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>GP | 404</title>
+    	<title>Pi | 404</title>
 	<?php include('core/inc/headtag.php'); ?>
     </head>
 

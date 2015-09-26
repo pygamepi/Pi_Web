@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>GP | Servers</title>
+    	<title>Pi | Servers</title>
 	<?php include('../../core/inc/headtag.php'); ?>
 	<?php include_once 'minecraftquerry.php'; ?>
     </head>
@@ -18,7 +18,7 @@
 		</div><!--block-->
 		<div class="blockLength9 block servers">
                     <h1>Minecraft Pixelmon</h1>
-		    <img src="http://www.gnosisparadox.net/core/img/pixelmon.png">
+		    <img src="http://pygamepi.com/core/img/pixelmon.png">
 		    <?php include('pixelmon.php'); ?>
                 </div><!--block--></center>
 	    </div><!--row-->

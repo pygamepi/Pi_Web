@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>template</title>
+    	<title>Pi | Template</title>
 	<?php include('core/inc/headtag.php'); ?>
     </head>
 

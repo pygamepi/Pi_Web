@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>GP | Portfolio</title>
+    	<title>Pi | Portfolio</title>
 	<?php include('../core/inc/headtag.php'); ?>
     </head>
 

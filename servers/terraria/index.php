@@ -18,7 +18,7 @@
 		</div><!--block-->
 		<div class="blockLength9 block servers">
                     <h1>Terraria</h1>
-		    <img src="http://www.gnosisparadox.net/core/img/terraria.png">
+		    <img src="http://pygamepi.com/core/img/terraria.png">
 		    <?php include('terraria.php'); ?>
                 </div><!--block--></center>
 	    </div><!--row-->
