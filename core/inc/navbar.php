@@ -2,7 +2,7 @@
     <div class="menuContainer">
 
 	<div class="menuBlock logo">
-	    <a href="/"><img src="http://www.gnosisparadox.net/core/img/logo.png"/></a>
+	    <a href="/"><img src="http://pygamepi.com/core/img/logo.png"/></a>
 	</div><!--menuBlock-->
 
 	<div class="menuBlock logoBlock">
@@ -26,7 +26,7 @@
         </div><!--menuBlock-->
 
 	<div class="menuBlock menuButton">
-	   <a href="#" onClick="menuPop()"><img name="menuButton" src="http://www.gnosisparadox.net/core/img/menuButton.png"/></a>
+	   <a href="#" onClick="menuPop()"><img name="menuButton" src="http://pygamepi.com/core/img/menuButton.png"/></a>
 	</div><!--menyBlock-->
 
     </div><!--menuContainer-->

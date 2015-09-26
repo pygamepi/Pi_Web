@@ -7,10 +7,10 @@
 	margin: 0px 0px 5px 0px;
 	padding-top: 5px;
 	background-color: #A8FC00;
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -webkit-linear-gradient(black, #A8FC00);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -moz-linear-gradient(black, #A8FC00);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -o-linear-gradient(black, #A8FC00);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), linear-gradient(black, #A8FC00);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -webkit-linear-gradient(black, #A8FC00);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -moz-linear-gradient(black, #A8FC00);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -o-linear-gradient(black, #A8FC00);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), linear-gradient(black, #A8FC00);
 }
 .menuContainer {
 	margin-left: 50px

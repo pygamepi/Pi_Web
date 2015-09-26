@@ -5,10 +5,10 @@
 	margin: 0px 0px 5px 0px;
 	padding: 5px;
 	border-radius: 0px 0px 5px 5p;
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), linear-gradient(#A8FC00, black);
 }
 .popContainer {
 	margin-left: 3%;

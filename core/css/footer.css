@@ -7,10 +7,10 @@
 	padding-bottom: 2px;
 	color: white;
 	background-color: #A8FC00;
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
-	background-image: url("http://www.gnosisparadox.net/core/img/footer.png"), linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -webkit-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -moz-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), -o-linear-gradient(#A8FC00, black);
+	background-image: url("http://pygamepi.com/core/img/footer.png"), linear-gradient(#A8FC00, black);
 }
 .footerContainer {
 	padding: 5px;
